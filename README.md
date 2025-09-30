@@ -2,7 +2,7 @@
 
 # 📈 Stock Price Prediction Web App
 
-![Banner](static/banner.png)
+
 
 A **Flask-based web application** that predicts stock prices using a **Deep Learning model** (LSTM) and visualizes the stock trends with **Exponential Moving Averages (EMA)**. It also allows users to **download stock data** as CSV.
 
