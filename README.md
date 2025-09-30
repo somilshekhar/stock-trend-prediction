@@ -54,7 +54,7 @@ stock-prediction-app/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/stock-prediction-app.git
+git clone https://github.com/somilshekhar/stock-prediction-app.git
 cd stock-prediction-app
 ```
 
